@@ -1,0 +1,288 @@
+TCProjects
+v7
+r0
+t414049069.448123
+cCheck dependencies
+cCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/RandomNumbers.o /Users/Potato/CPrograms/randomNumbers/randomNumbers/RandomNumbers.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/ReverseString.o /Users/Potato/CPrograms/randomNumbers/randomNumbers/ReverseString.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/main.o /Users/Potato/CPrograms/randomNumbers/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/AgeSort.o /Users/Potato/CPrograms/randomNumbers/AgeSort.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/NameSort.o /Users/Potato/CPrograms/randomNumbers/NameSort.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Hangman.o /Users/Potato/CPrograms/randomNumbers/Hangman.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/NameSortLinkList.o /Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Factorial.o /Users/Potato/CPrograms/randomNumbers/Factorial.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Fibonacci.o /Users/Potato/CPrograms/randomNumbers/Fibonacci.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/Potato/CPrograms/randomNumbers/build/Debug/CProjects normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Users/Potato/CPrograms/randomNumbers/AgeSort.c
+c000000004FE52D43000000000000062D
+t1340419395
+s1581
+i<stdio.h>
+i<string.h>
+
+N/Users/Potato/CPrograms/randomNumbers/Factorial.c
+c000000004FFE48060000000000000367
+t1342064646
+s871
+i<stdio.h>
+
+N/Users/Potato/CPrograms/randomNumbers/Fibonacci.c
+c000000004FFE4C7D0000000000000276
+t1342065789
+s630
+i<stdio.h>
+
+N/Users/Potato/CPrograms/randomNumbers/Hangman.c
+c000000004FEBE9190000000000000CEE
+t1340860697
+s3310
+i<stdio.h>
+i<string.h>
+
+N/Users/Potato/CPrograms/randomNumbers/NameSort.c
+c000000004FF905510000000000001199
+t1341719889
+s4505
+i<stdio.h>
+i<string.h>
+i<stdlib.h>
+
+N/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c
+c000000004FF928940000000000001002
+t1341728916
+s4098
+i<stdio.h>
+i<string.h>
+i<stdlib.h>
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/AgeSort.o
+t1392356254
+s5304
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/CProjects.LinkFileList
+c0000000052FDAB9E0000000000000419
+t1392356254
+s1049
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Factorial.o
+t1392356254
+s4044
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Fibonacci.o
+t1392356254
+s3464
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Hangman.o
+t1392356254
+s4572
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/NameSort.o
+t1392356254
+s9356
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/NameSortLinkList.o
+t1392356254
+s5920
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/RandomNumbers.o
+t1392356254
+s3668
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/ReverseString.o
+t1392356254
+s5732
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/main.o
+t1392356254
+s4756
+
+N/Users/Potato/CPrograms/randomNumbers/build/Debug/CProjects
+t1392356254
+s22880
+
+N/Users/Potato/CPrograms/randomNumbers/main.c
+c000000004FFE4BEE00000000000007CB
+t1342065646
+s1995
+i<stdio.h>
+i<stdlib.h>
+
+N/Users/Potato/CPrograms/randomNumbers/randomNumbers/RandomNumbers.c
+c000000004FE3EC3500000000000003EB
+t1340337205
+s1003
+i<stdio.h>
+i<stdlib.h>
+
+N/Users/Potato/CPrograms/randomNumbers/randomNumbers/ReverseString.c
+c000000004FE402060000000000000426
+t1340342790
+s1062
+i<stdio.h>
+i<string.h>
+i<stdlib.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies414049069#414049069#0(155"[WARN]Mac OS X deployment target '10.8' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.1(22@148"Mac OS X deployment target '10.8' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.414049069#18446744073709551615#0#0(1@0"0(0#1#0"4319178752#0"0#
+
+CCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/AgeSort.o /Users/Potato/CPrograms/randomNumbers/AgeSort.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049054.089367
+e414049054.165480
+r1
+xCompileC
+xbuild/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/AgeSort.o
+x/Users/Potato/CPrograms/randomNumbers/AgeSort.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+occ1: warning: -Wuninitialized is not supported without -O
+lSLF07#2@55"Compile /Users/Potato/CPrograms/randomNumbers/AgeSort.c414049054#414049054#0(58"cc1: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O414049054#0#58#0(6@0"414049054#0#0#0#0#0"0(0#0#47"/Users/Potato/CPrograms/randomNumbers/AgeSort.c4319178752#1327"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Debug -I/Users/Potato/CPrograms/randomNumbers/build/Debug/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/AgeSort.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/AgeSort.o0#
+
+CCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Factorial.o /Users/Potato/CPrograms/randomNumbers/Factorial.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049054.167366
+e414049054.204201
+r1
+xCompileC
+xbuild/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Factorial.o
+x/Users/Potato/CPrograms/randomNumbers/Factorial.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+occ1: warning: -Wuninitialized is not supported without -O
+lSLF07#2@57"Compile /Users/Potato/CPrograms/randomNumbers/Factorial.c414049054#414049054#0(58"cc1: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O414049054#0#58#0(6@0"414049054#0#0#0#0#0"0(0#0#49"/Users/Potato/CPrograms/randomNumbers/Factorial.c4319178752#1331"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Debug -I/Users/Potato/CPrograms/randomNumbers/build/Debug/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/Factorial.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Factorial.o0#
+
+CCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Fibonacci.o /Users/Potato/CPrograms/randomNumbers/Fibonacci.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049054.204275
+e414049054.229451
+r1
+xCompileC
+xbuild/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Fibonacci.o
+x/Users/Potato/CPrograms/randomNumbers/Fibonacci.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+occ1: warning: -Wuninitialized is not supported without -O
+lSLF07#2@57"Compile /Users/Potato/CPrograms/randomNumbers/Fibonacci.c414049054#414049054#0(58"cc1: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O414049054#0#58#0(6@0"414049054#0#0#0#0#0"0(0#0#49"/Users/Potato/CPrograms/randomNumbers/Fibonacci.c4319178752#1331"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Debug -I/Users/Potato/CPrograms/randomNumbers/build/Debug/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/Fibonacci.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Fibonacci.o0#
+
+CCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Hangman.o /Users/Potato/CPrograms/randomNumbers/Hangman.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049054.165634
+e414049054.205076
+r1
+xCompileC
+xbuild/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Hangman.o
+x/Users/Potato/CPrograms/randomNumbers/Hangman.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+occ1: warning: -Wuninitialized is not supported without -O
+lSLF07#2@55"Compile /Users/Potato/CPrograms/randomNumbers/Hangman.c414049054#414049054#0(58"cc1: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O414049054#0#58#0(6@0"414049054#0#0#0#0#0"0(0#0#47"/Users/Potato/CPrograms/randomNumbers/Hangman.c4319178752#1327"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Debug -I/Users/Potato/CPrograms/randomNumbers/build/Debug/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/Hangman.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/Hangman.o0#
+
+CCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/NameSort.o /Users/Potato/CPrograms/randomNumbers/NameSort.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049054.164442
+e414049054.216654
+r1
+xCompileC
+xbuild/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/NameSort.o
+x/Users/Potato/CPrograms/randomNumbers/NameSort.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+occ1: warning: -Wuninitialized is not supported without -O
+lSLF07#2@56"Compile /Users/Potato/CPrograms/randomNumbers/NameSort.c414049054#414049054#0(58"cc1: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O414049054#0#58#0(6@0"414049054#0#0#0#0#0"0(0#0#48"/Users/Potato/CPrograms/randomNumbers/NameSort.c17206265600#1329"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Debug -I/Users/Potato/CPrograms/randomNumbers/build/Debug/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/NameSort.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/NameSort.o0#
+
+CCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/NameSortLinkList.o /Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049054.166441
+e414049054.205245
+r1
+xCompileC
+xbuild/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/NameSortLinkList.o
+x/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+occ1: warning: -Wuninitialized is not supported without -O
+o/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c: In function 'nameSortLinkList':
+o/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c:37: warning: unused variable 'result'
+o/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c:36: warning: unused variable 'count'
+lSLF07#2@64"Compile /Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c414049054#414049054#0(337"cc1: warning: -Wuninitialized is not supported without -O/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c: In function 'nameSortLinkList':/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c:37: warning: unused variable 'result'/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c:36: warning: unused variable 'count'3(22@43"-Wuninitialized is not supported without -O414049054#0#58#0(6@0"414049054#0#0#0#0#0"0(22@24"Unused variable 'result'414049054#148#95#0(6@56"/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c363421716#37#0#37#0#19"unused variable '*'0(22@23"Unused variable 'count'414049054#243#94#0(6@56"/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c363421716#36#0#36#0#19"unused variable '*'0(0#0#56"/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c4319178752#1345"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Debug -I/Users/Potato/CPrograms/randomNumbers/build/Debug/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/NameSortLinkList.o0#
+
+CCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/RandomNumbers.o /Users/Potato/CPrograms/randomNumbers/randomNumbers/RandomNumbers.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049054.084056
+e414049054.165335
+r1
+xCompileC
+xbuild/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/RandomNumbers.o
+x/Users/Potato/CPrograms/randomNumbers/randomNumbers/RandomNumbers.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+occ1: warning: -Wuninitialized is not supported without -O
+lSLF07#2@75"Compile /Users/Potato/CPrograms/randomNumbers/randomNumbers/RandomNumbers.c414049054#414049054#0(58"cc1: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O414049054#0#58#0(6@0"414049054#0#0#0#0#0"0(0#0#67"/Users/Potato/CPrograms/randomNumbers/randomNumbers/RandomNumbers.c17230298880#1353"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Debug -I/Users/Potato/CPrograms/randomNumbers/build/Debug/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/randomNumbers/RandomNumbers.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/RandomNumbers.o0#
+
+CCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/ReverseString.o /Users/Potato/CPrograms/randomNumbers/randomNumbers/ReverseString.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049054.088048
+e414049054.167303
+r1
+xCompileC
+xbuild/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/ReverseString.o
+x/Users/Potato/CPrograms/randomNumbers/randomNumbers/ReverseString.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+occ1: warning: -Wuninitialized is not supported without -O
+lSLF07#2@75"Compile /Users/Potato/CPrograms/randomNumbers/randomNumbers/ReverseString.c414049054#414049054#0(58"cc1: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O414049054#0#58#0(6@0"414049054#0#0#0#0#0"0(0#0#67"/Users/Potato/CPrograms/randomNumbers/randomNumbers/ReverseString.c4319178752#1353"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Debug -I/Users/Potato/CPrograms/randomNumbers/build/Debug/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/randomNumbers/ReverseString.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/ReverseString.o0#
+
+CCompileC build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/main.o /Users/Potato/CPrograms/randomNumbers/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049054.088656
+e414049054.164352
+r1
+xCompileC
+xbuild/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/main.o
+x/Users/Potato/CPrograms/randomNumbers/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+occ1: warning: -Wuninitialized is not supported without -O
+lSLF07#2@52"Compile /Users/Potato/CPrograms/randomNumbers/main.c414049054#414049054#0(58"cc1: warning: -Wuninitialized is not supported without -O1(22@43"-Wuninitialized is not supported without -O414049054#0#58#0(6@0"414049054#0#0#0#0#0"0(0#0#44"/Users/Potato/CPrograms/randomNumbers/main.c4319178752#1321"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Debug -I/Users/Potato/CPrograms/randomNumbers/build/Debug/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/main.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/Potato/CPrograms/randomNumbers/build/Debug/CProjects normal x86_64
+s414049054.229618
+e414049054.283835
+r1
+xLd
+x/Users/Potato/CPrograms/randomNumbers/build/Debug/CProjects
+xnormal
+xx86_64
+lSLF07#2@64"Link /Users/Potato/CPrograms/randomNumbers/build/Debug/CProjects414049054#414049054#0(0"0(0#0#0"4319178752#510"    cd /Users/Potato/CPrograms/randomNumbers    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Potato/CPrograms/randomNumbers/build/Debug -F/Users/Potato/CPrograms/randomNumbers/build/Debug -filelist /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Debug/CProjects.build/Objects-normal/x86_64/CProjects.LinkFileList -mmacosx-version-min=10.8 -prebind -o /Users/Potato/CPrograms/randomNumbers/build/Debug/CProjects0#
+

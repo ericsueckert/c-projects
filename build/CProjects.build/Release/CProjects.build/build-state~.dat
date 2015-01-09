@@ -1,0 +1,293 @@
+TCProjects
+v7
+r0
+t414049088.790300
+cCheck dependencies
+cCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/RandomNumbers.o /Users/Potato/CPrograms/randomNumbers/randomNumbers/RandomNumbers.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/ReverseString.o /Users/Potato/CPrograms/randomNumbers/randomNumbers/ReverseString.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/main.o /Users/Potato/CPrograms/randomNumbers/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/AgeSort.o /Users/Potato/CPrograms/randomNumbers/AgeSort.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/NameSort.o /Users/Potato/CPrograms/randomNumbers/NameSort.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Hangman.o /Users/Potato/CPrograms/randomNumbers/Hangman.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/NameSortLinkList.o /Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Factorial.o /Users/Potato/CPrograms/randomNumbers/Factorial.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Fibonacci.o /Users/Potato/CPrograms/randomNumbers/Fibonacci.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/Potato/CPrograms/randomNumbers/build/Release/CProjects normal x86_64
+cGenerateDSYMFile /Users/Potato/CPrograms/randomNumbers/build/Release/CProjects.dSYM /Users/Potato/CPrograms/randomNumbers/build/Release/CProjects
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Users/Potato/CPrograms/randomNumbers/AgeSort.c
+c000000004FE52D43000000000000062D
+t1340419395
+s1581
+i<stdio.h>
+i<string.h>
+
+N/Users/Potato/CPrograms/randomNumbers/Factorial.c
+c000000004FFE48060000000000000367
+t1342064646
+s871
+i<stdio.h>
+
+N/Users/Potato/CPrograms/randomNumbers/Fibonacci.c
+c000000004FFE4C7D0000000000000276
+t1342065789
+s630
+i<stdio.h>
+
+N/Users/Potato/CPrograms/randomNumbers/Hangman.c
+c000000004FEBE9190000000000000CEE
+t1340860697
+s3310
+i<stdio.h>
+i<string.h>
+
+N/Users/Potato/CPrograms/randomNumbers/NameSort.c
+c000000004FF905510000000000001199
+t1341719889
+s4505
+i<stdio.h>
+i<string.h>
+i<stdlib.h>
+
+N/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c
+c000000004FF928940000000000001002
+t1341728916
+s4098
+i<stdio.h>
+i<string.h>
+i<stdlib.h>
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/AgeSort.o
+t1392356288
+s5328
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/CProjects.LinkFileList
+c0000000052FDABC0000000000000042B
+t1392356288
+s1067
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Factorial.o
+t1392356288
+s5916
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Fibonacci.o
+t1392356288
+s3536
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Hangman.o
+t1392356288
+s4748
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/NameSort.o
+t1392356288
+s9736
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/NameSortLinkList.o
+t1392356288
+s6120
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/RandomNumbers.o
+t1392356288
+s4108
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/ReverseString.o
+t1392356288
+s6100
+
+N/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/main.o
+t1392356288
+s4868
+
+N/Users/Potato/CPrograms/randomNumbers/build/Release/CProjects
+t1392356288
+s21968
+
+N/Users/Potato/CPrograms/randomNumbers/build/Release/CProjects.dSYM
+t1392356288
+s102
+
+N/Users/Potato/CPrograms/randomNumbers/main.c
+c000000004FFE4BEE00000000000007CB
+t1342065646
+s1995
+i<stdio.h>
+i<stdlib.h>
+
+N/Users/Potato/CPrograms/randomNumbers/randomNumbers/RandomNumbers.c
+c000000004FE3EC3500000000000003EB
+t1340337205
+s1003
+i<stdio.h>
+i<stdlib.h>
+
+N/Users/Potato/CPrograms/randomNumbers/randomNumbers/ReverseString.c
+c000000004FE402060000000000000426
+t1340342790
+s1062
+i<stdio.h>
+i<string.h>
+i<stdlib.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies414049088#414049088#0(155"[WARN]Mac OS X deployment target '10.8' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.1(22@148"Mac OS X deployment target '10.8' for architecture 'x86_64' and variant 'normal' is greater than the maximum value '10.6' for the Mac OS X 10.6 SDK.414049088#18446744073709551615#0#0(1@0"0(0#1#0"4319178752#0"0#
+
+CCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/AgeSort.o /Users/Potato/CPrograms/randomNumbers/AgeSort.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049088.608996
+e414049088.680945
+r1
+xCompileC
+xbuild/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/AgeSort.o
+x/Users/Potato/CPrograms/randomNumbers/AgeSort.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Potato/CPrograms/randomNumbers/AgeSort.c414049088#414049088#0(0"0(0#0#47"/Users/Potato/CPrograms/randomNumbers/AgeSort.c4319178752#1372"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Release -I/Users/Potato/CPrograms/randomNumbers/build/Release/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/AgeSort.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/AgeSort.o0#
+
+CCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Factorial.o /Users/Potato/CPrograms/randomNumbers/Factorial.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049088.681038
+e414049088.728028
+r1
+xCompileC
+xbuild/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Factorial.o
+x/Users/Potato/CPrograms/randomNumbers/Factorial.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/Potato/CPrograms/randomNumbers/Factorial.c414049088#414049088#0(0"0(0#0#49"/Users/Potato/CPrograms/randomNumbers/Factorial.c4319178752#1376"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Release -I/Users/Potato/CPrograms/randomNumbers/build/Release/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/Factorial.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Factorial.o0#
+
+CCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Fibonacci.o /Users/Potato/CPrograms/randomNumbers/Fibonacci.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049088.718158
+e414049088.748903
+r1
+xCompileC
+xbuild/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Fibonacci.o
+x/Users/Potato/CPrograms/randomNumbers/Fibonacci.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/Potato/CPrograms/randomNumbers/Fibonacci.c414049088#414049088#0(0"0(0#0#49"/Users/Potato/CPrograms/randomNumbers/Fibonacci.c4319178752#1376"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Release -I/Users/Potato/CPrograms/randomNumbers/build/Release/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/Fibonacci.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Fibonacci.o0#
+
+CCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Hangman.o /Users/Potato/CPrograms/randomNumbers/Hangman.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049088.674034
+e414049088.717980
+r1
+xCompileC
+xbuild/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Hangman.o
+x/Users/Potato/CPrograms/randomNumbers/Hangman.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/Potato/CPrograms/randomNumbers/Hangman.c414049088#414049088#0(0"0(0#0#47"/Users/Potato/CPrograms/randomNumbers/Hangman.c4319178752#1372"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Release -I/Users/Potato/CPrograms/randomNumbers/build/Release/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/Hangman.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/Hangman.o0#
+
+CCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/NameSort.o /Users/Potato/CPrograms/randomNumbers/NameSort.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049088.671077
+e414049088.753427
+r1
+xCompileC
+xbuild/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/NameSort.o
+x/Users/Potato/CPrograms/randomNumbers/NameSort.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/Potato/CPrograms/randomNumbers/NameSort.c414049088#414049088#0(0"0(0#0#48"/Users/Potato/CPrograms/randomNumbers/NameSort.c4319178752#1374"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Release -I/Users/Potato/CPrograms/randomNumbers/build/Release/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/NameSort.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/NameSort.o0#
+
+CCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/NameSortLinkList.o /Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049088.676328
+e414049088.725392
+r1
+xCompileC
+xbuild/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/NameSortLinkList.o
+x/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c: In function 'nameSortLinkList':
+o/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c:37: warning: unused variable 'result'
+o/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c:36: warning: unused variable 'count'
+lSLF07#2@64"Compile /Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c414049088#414049088#0(279"/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c: In function 'nameSortLinkList':/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c:37: warning: unused variable 'result'/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c:36: warning: unused variable 'count'2(22@24"Unused variable 'result'414049088#90#95#0(6@56"/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c363421716#37#0#37#0#19"unused variable '*'0(22@23"Unused variable 'count'414049088#185#94#0(6@56"/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c363421716#36#0#36#0#19"unused variable '*'0(0#0#56"/Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c4319178752#1390"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Release -I/Users/Potato/CPrograms/randomNumbers/build/Release/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/NameSortLinkList.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/NameSortLinkList.o0#
+
+CCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/RandomNumbers.o /Users/Potato/CPrograms/randomNumbers/randomNumbers/RandomNumbers.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049088.607113
+e414049088.676240
+r1
+xCompileC
+xbuild/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/RandomNumbers.o
+x/Users/Potato/CPrograms/randomNumbers/randomNumbers/RandomNumbers.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Potato/CPrograms/randomNumbers/randomNumbers/RandomNumbers.c414049088#414049088#0(0"0(0#0#67"/Users/Potato/CPrograms/randomNumbers/randomNumbers/RandomNumbers.c4319178752#1398"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Release -I/Users/Potato/CPrograms/randomNumbers/build/Release/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/randomNumbers/RandomNumbers.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/RandomNumbers.o0#
+
+CCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/ReverseString.o /Users/Potato/CPrograms/randomNumbers/randomNumbers/ReverseString.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049088.607642
+e414049088.673946
+r1
+xCompileC
+xbuild/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/ReverseString.o
+x/Users/Potato/CPrograms/randomNumbers/randomNumbers/ReverseString.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Potato/CPrograms/randomNumbers/randomNumbers/ReverseString.c414049088#414049088#0(0"0(0#0#67"/Users/Potato/CPrograms/randomNumbers/randomNumbers/ReverseString.c4319178752#1398"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Release -I/Users/Potato/CPrograms/randomNumbers/build/Release/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/randomNumbers/ReverseString.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/ReverseString.o0#
+
+CCompileC build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/main.o /Users/Potato/CPrograms/randomNumbers/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s414049088.608257
+e414049088.670999
+r1
+xCompileC
+xbuild/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/main.o
+x/Users/Potato/CPrograms/randomNumbers/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/Potato/CPrograms/randomNumbers/main.c414049088#414049088#0(0"0(0#0#44"/Users/Potato/CPrograms/randomNumbers/main.c4319178752#1366"    cd /Users/Potato/CPrograms/randomNumbers    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.8 -gdwarf-2 -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-generated-files.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-own-target-headers.hmap -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-all-target-headers.hmap -iquote /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/CProjects-project-headers.hmap -F/Users/Potato/CPrograms/randomNumbers/build/Release -I/Users/Potato/CPrograms/randomNumbers/build/Release/include -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources/x86_64 -I/Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/DerivedSources -c /Users/Potato/CPrograms/randomNumbers/main.c -o /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/main.o0#
+
+CGenerateDSYMFile /Users/Potato/CPrograms/randomNumbers/build/Release/CProjects.dSYM /Users/Potato/CPrograms/randomNumbers/build/Release/CProjects
+s414049088.770653
+e414049088.788698
+r1
+xGenerateDSYMFile
+x/Users/Potato/CPrograms/randomNumbers/build/Release/CProjects.dSYM
+x/Users/Potato/CPrograms/randomNumbers/build/Release/CProjects
+lSLF07#2@69"GenerateDSYMFile build/Release/CProjects.dSYM build/Release/CProjects414049088#414049088#0(0"0(0#0#61"/Users/Potato/CPrograms/randomNumbers/build/Release/CProjects4319178752#209"    cd /Users/Potato/CPrograms/randomNumbers    /Developer/usr/bin/dsymutil /Users/Potato/CPrograms/randomNumbers/build/Release/CProjects -o /Users/Potato/CPrograms/randomNumbers/build/Release/CProjects.dSYM0#
+
+CLd /Users/Potato/CPrograms/randomNumbers/build/Release/CProjects normal x86_64
+s414049088.753474
+e414049088.770214
+r1
+xLd
+x/Users/Potato/CPrograms/randomNumbers/build/Release/CProjects
+xnormal
+xx86_64
+lSLF07#2@66"Link /Users/Potato/CPrograms/randomNumbers/build/Release/CProjects414049088#414049088#0(0"0(0#0#0"4319178752#518"    cd /Users/Potato/CPrograms/randomNumbers    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Potato/CPrograms/randomNumbers/build/Release -F/Users/Potato/CPrograms/randomNumbers/build/Release -filelist /Users/Potato/CPrograms/randomNumbers/build/CProjects.build/Release/CProjects.build/Objects-normal/x86_64/CProjects.LinkFileList -mmacosx-version-min=10.8 -prebind -o /Users/Potato/CPrograms/randomNumbers/build/Release/CProjects0#
+
